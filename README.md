@@ -1,22 +1,28 @@
-# Satvik Shrivastava
+<div align="center">
+  <img src="assets/profile-banner.svg" alt="Satvik Shrivastava — software systems and digital hardware; 12 public repositories, 152 contributions in the past year, and six featured builds, as of September 2026" width="100%" />
+</div>
 
-Student at IIIT Hyderabad building software systems, developer tools, and hardware projects.
+### Hello, I'm Satvik 👋
 
-I enjoy working across the stack: from understanding large Python codebases to writing C systems software and designing digital and analog circuits. I aim to make each project usable, testable, and clear to someone seeing it for the first time.
+I'm an Electronics and Communication Engineering undergraduate at **IIIT Hyderabad**. I like projects where code meets the machine: distributed systems, operating systems, processor design, and circuits. At the Robotics Research Center, I'm exploring graph algorithms for navigation among movable objects.
 
-### Selected work
+My goal is to make technically deep work approachable. Each repository below has an implementation and a write-up you can inspect, run, or build on.
 
-| Project | What I built |
-| --- | --- |
-| [CodeContour](https://github.com/Blotify/CodeContour) | A local-first Python architecture explorer with dependency graphs, cycle detection, change-impact tracing, and an interactive interface. |
-| [Network File System](https://github.com/Blotify/Network-File-System) | A C-based distributed file system with a name server, replicated storage, access control, and checkpoints. |
-| [xv6 Scheduler](https://github.com/Blotify/XV6-Scheduler) | Scheduling policies and an I/O accounting syscall for xv6-riscv, with benchmarks comparing scheduler behavior. |
-| [RISC-V Processor](https://github.com/Blotify/RISC-V-Processor) | Single-cycle and five-stage pipelined RV64I processors in Verilog, with hazard handling and testbenches. |
-| [5-Bit CLA Adder](https://github.com/Blotify/5-Bit-CLA-Adder) | A 180 nm CMOS carry-lookahead adder developed through circuit design, layout, SPICE simulation, and FPGA verification. |
-| [PPG Sensor](https://github.com/Blotify/PPG-sensor) | A heart-rate sensing circuit using an IR LED, photodiode, analog filtering and amplification, and an OLED display. |
+### Start here
 
-### Tools and interests
+| If you're interested in… | Explore | What you'll find |
+| --- | --- | --- |
+| Developer tools | [CodeContour](https://github.com/Blotify/CodeContour) | A local-first Python architecture explorer with dependency graphs, cycle detection, and change-impact tracing. |
+| Distributed systems | [Network File System](https://github.com/Blotify/Network-File-System) | A C file system with a name server, replicated storage, access control, and checkpoints. |
+| Operating systems | [xv6 Scheduler](https://github.com/Blotify/XV6-Scheduler) | FCFS, CFS, and round-robin scheduling for xv6-riscv, plus an I/O accounting syscall and benchmarks. |
+| Processor design | [RISC-V Processor](https://github.com/Blotify/RISC-V-Processor) | Single-cycle and five-stage pipelined RV64I designs in Verilog, with hazard handling and testbenches. |
+| VLSI and digital logic | [5-Bit CLA Adder](https://github.com/Blotify/5-Bit-CLA-Adder) | A 180 nm CMOS carry-lookahead adder taken from circuit design through layout, simulation, and FPGA validation. |
+| Sensors and analog design | [PPG Sensor](https://github.com/Blotify/PPG-sensor) | An IR heart-rate sensor with analog signal conditioning and an OLED readout. |
 
-Python · C · Verilog · MATLAB · Docker · signal processing · computer architecture · distributed systems
+### Working set
 
-I keep project write-ups and setup instructions in the repositories above. Explore the implementations and reports there.
+`Python` · `C` · `Verilog` · `RISC-V` · `Docker` · `OpenCV` · `NGSPICE` · `MATLAB`
+
+I'm especially interested in **systems software, computer architecture, robotics, and hardware design**. The pinned repositories below are a good place to see the code and reports.
+
+<sub>The banner is an original illustration. Its GitHub counts are a snapshot from September 2026; the live contribution graph below is the current source of truth.</sub>

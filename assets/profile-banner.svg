@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="title desc">
+  <title id="title">Satvik Shrivastava — systems, software and silicon</title>
+  <desc id="desc">Terminal-inspired profile card with an original circuit illustration and a September 2026 GitHub snapshot.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a1423"/><stop offset="1" stop-color="#173342"/></linearGradient>
+    <linearGradient id="trace" x2="1" y2="1"><stop stop-color="#4ce0bd"/><stop offset="1" stop-color="#76acff"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#29506a" opacity=".35"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="410" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="410" fill="url(#bg)"/>
+    <rect width="1200" height="410" fill="url(#grid)"/>
+    <path d="M0 0h1200v56H0z" fill="#08111d"/>
+    <circle cx="32" cy="28" r="6" fill="#ff6b6b"/><circle cx="54" cy="28" r="6" fill="#ffc46b"/><circle cx="76" cy="28" r="6" fill="#4ce0bd"/>
+    <text x="110" y="34" fill="#91acbb" font-family="Consolas,monospace" font-size="15">satvik@iiith:~/builds</text>
+    <text x="1144" y="34" text-anchor="end" fill="#4ce0bd" font-family="Consolas,monospace" font-size="14">● BUILDING</text>
+    <g fill="none" stroke="url(#trace)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M55 108h100l38 34h80l32 32h55M43 182h103l47 43h75l40-43h52M48 265h103l42-40h76l39 39h52M63 340h107l27-27h77l35-30h51"/>
+      <path d="M193 142v83m115-43v82m-111 49v-88" opacity=".6"/>
+    </g>
+    <g fill="#102a38" stroke="#76acff" stroke-width="3"><circle cx="55" cy="108" r="7"/><circle cx="43" cy="182" r="7"/><circle cx="48" cy="265" r="7"/><circle cx="63" cy="340" r="7"/><circle cx="360" cy="174" r="7"/><circle cx="360" cy="182" r="7"/><circle cx="360" cy="264" r="7"/><circle cx="360" cy="283" r="7"/></g>
+    <path d="M144 167l43-19 43 19v47l-43 20-43-20z" fill="#102a38" stroke="#4ce0bd" stroke-width="3"/>
+    <path d="M165 177h44m-44 14h44m-44 14h44" stroke="#4ce0bd" stroke-width="3" stroke-linecap="round"/>
+    <text x="47" y="387" fill="#7493a5" font-family="Consolas,monospace" font-size="14">INPUT → THINK → BUILD → TEST</text>
+    <path d="M421 90v280" stroke="#31586b" stroke-width="2"/>
+    <text x="467" y="110" fill="#4ce0bd" font-family="Consolas,monospace" font-size="18">$ whoami</text>
+    <text x="467" y="171" fill="#f0f7fb" font-family="Arial,sans-serif" font-size="48" font-weight="700">Satvik Shrivastava</text>
+    <text x="469" y="208" fill="#b1cbd8" font-family="Arial,sans-serif" font-size="21">Software systems × digital hardware</text>
+    <text x="469" y="242" fill="#8facbc" font-family="Consolas,monospace" font-size="16">ECE undergraduate · IIIT Hyderabad · Class of 2028</text>
+    <g fill="#102838" stroke="#31586b"><rect x="467" y="274" width="204" height="82" rx="12"/><rect x="687" y="274" width="204" height="82" rx="12"/><rect x="907" y="274" width="244" height="82" rx="12"/></g>
+    <text x="485" y="313" fill="#4ce0bd" font-family="Consolas,monospace" font-size="30" font-weight="700">12</text>
+    <text x="485" y="339" fill="#afc5d1" font-family="Arial,sans-serif" font-size="15">public repositories</text>
+    <text x="705" y="313" fill="#76acff" font-family="Consolas,monospace" font-size="30" font-weight="700">152</text>
+    <text x="705" y="339" fill="#afc5d1" font-family="Arial,sans-serif" font-size="15">contributions / year</text>
+    <text x="925" y="313" fill="#ffc46b" font-family="Consolas,monospace" font-size="30" font-weight="700">6</text>
+    <text x="925" y="339" fill="#afc5d1" font-family="Arial,sans-serif" font-size="15">featured builds</text>
+    <text x="1146" y="389" text-anchor="end" fill="#7898aa" font-family="Consolas,monospace" font-size="12">GitHub snapshot · Sep 2026</text>
+  </g>
+</svg>
