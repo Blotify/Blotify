@@ -19,4 +19,4 @@ I enjoy working across the stack: from understanding large Python codebases to w
 
 Python · C · Verilog · MATLAB · Docker · signal processing · computer architecture · distributed systems
 
-I keep project write-ups and setup instructions in the repositories above. Explore the code, reports, and test results there.
+I keep project write-ups and setup instructions in the repositories above. Explore the implementations and reports there.
