@@ -4,7 +4,7 @@
 
 ### Hello, I'm Satvik 👋
 
-I'm an Electronics and Communication Engineering undergraduate at **IIIT Hyderabad**. I like projects where code meets the machine: distributed systems, operating systems, processor design, and circuits. At the Robotics Research Center, I'm exploring graph algorithms for navigation among movable objects.
+I'm an Electronics and Communication Engineering undergraduate at **IIIT Hyderabad**. Current working as an undergrad researcher at Robotics Research Center, IIITH. My interest lies in algorithms, system design and lil bit of electronics.
 
 My goal is to make technically deep work approachable. Each repository below has an implementation and a write-up you can inspect, run, or build on.
 
